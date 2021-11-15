@@ -1,0 +1,15 @@
+// <TouchableOpacity style={styles.photoContainer}
+        //     activeOpacity={0.8}
+        //     onLongPress={
+        //         () => setChecked(!isCheked)
+        //     }
+        // >
+
+
+
+
+        {/* <Text style={{color: 'red', fontSize: 40}}>
+                { imageOriginCheker(url) }
+            </Text> */}
+
+        // </TouchableOpacity>
